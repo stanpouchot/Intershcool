@@ -1,1 +1,2 @@
 # Intershcool
+Projet de groupe
